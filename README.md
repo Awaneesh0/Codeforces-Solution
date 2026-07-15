@@ -20,7 +20,8 @@ Solutions are categorized by platform and problem difficulty rating.
 | **900** | 0 |
 
 ## Recent Solves
-* **4A - Watermelon** (Java) - *Basic Math / Edge Cases*
+* **4A - Watermelon** (Java) 
+* **71A - Way Too Long Words** (Java) 
 
 ---
 *Continuously updating as I solve more problems!*
