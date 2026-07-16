@@ -1,21 +1,22 @@
 import java.util.*;
 
-public class Main282A {
+public class Main {
     public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        
+        Scanner sc = new Scanner(System.in); 
         int n = sc.nextInt();
-        int x = 0;
+        int count = 0;
         
         for (int i = 0; i < n; i++) {
             String a = sc.next(); 
-            if (a.charAt(1) == '+') {
-                x++;
+
+            if(a.charAt(1) == '+') { 
+                count++;
             } else {
-                x--;
+                count--;
             }
         }
-        System.out.println(x);
+        
+        System.out.println(count);
         sc.close();
     }
 }
