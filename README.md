@@ -16,13 +16,14 @@ Solutions are categorized by platform and problem difficulty rating.
 ### Codeforces
 | Rating | Problems Solved |
 | :--- | :--- |
-| **800** | 3 |
+| **800** | 4 |
 | **900** | 0 |
 
 ## Recent Solves
 * **4A - Watermelon** (Java) 
 * **71A - Way Too Long Words** (Java) 
-* **231A - Team** (Java) 
+* **231A - Team** (Java)
+* **282A - Bit++** (Java) 
 
 ---
 *Continuously updating as I solve more problems!*
