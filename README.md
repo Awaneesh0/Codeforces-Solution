@@ -23,7 +23,7 @@ Solutions are categorized by platform and problem difficulty rating.
 * **282A - Bit++** (Java)
 * **158A - Next Round** (Java)
 * **50A - Domino Piling** (Java)
-* * **263A - Beautiful Matrix** (Java)
+* **263A - Beautiful Matrix** (Java)
 
 ---
 *Continuously updating as I solve more problems!*
