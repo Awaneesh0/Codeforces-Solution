@@ -16,14 +16,14 @@ Solutions are categorized by platform and problem difficulty rating.
 ### Codeforces
 | Rating | Problems Solved |
 | :--- | :--- |
-| **800** | 5 |
+| **800** | 6 |
 | **900** | 0 |
 
 ## Recent Solves
-* **71A - Way Too Long Words** (Java) 
 * **231A - Team** (Java)
 * **282A - Bit++** (Java)
-* **158A - Next Round** (Java) 
+* **158A - Next Round** (Java)
+* **50A - Domino Piling** (Java)
 
 ---
 *Continuously updating as I solve more problems!*
