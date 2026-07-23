@@ -16,14 +16,8 @@ Solutions are categorized by platform and problem difficulty rating.
 ### Codeforces
 | Rating | Problems Solved |
 | :--- | :--- |
-| **800** | 11 |
+| **800** | 12 |
 | **900** | 0 |
-
-## Recent Solves
-* **282A - Bit++** (Java)
-* **158A - Next Round** (Java)
-* **50A - Domino Piling** (Java)
-* **263A - Beautiful Matrix** (Java)
 
 ---
 *Continuously updating as I solve more problems!*
