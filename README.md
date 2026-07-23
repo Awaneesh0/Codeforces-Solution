@@ -16,7 +16,7 @@ Solutions are categorized by platform and problem difficulty rating.
 ### Codeforces
 | Rating | Problems Solved |
 | :--- | :--- |
-| **800** | 12 |
+| **800** | 16 |
 | **900** | 0 |
 
 ---
