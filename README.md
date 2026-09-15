@@ -17,7 +17,7 @@ Solutions are categorized by platform and problem difficulty rating.
 | Rating | Problems Solved |
 | :--- | :--- |
 | **800** | 37 |
-| **900** | 51 |
+| **900** | 52 |
 
 ---
 *Continuously updating as I solve more problems!*
